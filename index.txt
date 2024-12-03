@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+JSaillok - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ioannis Kollias
+Ioannis Kollias
+Computer Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+ioannis.saillok@gmail.com
 
 Phone
-+1 (213) 352-2795
++30 694 664 6134
 
 Birthday
-June 23, 1982
+September 18, 1999
 
 Location
-Sacramento, California, USA
+Nafplio, Argolida, GR
 
 # navbar
 
